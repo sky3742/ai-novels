@@ -1,0 +1,11 @@
+model = "gpt-5.3"
+
+approval_policy = "auto"
+
+sandbox.mode = "workspace-write"
+
+[agents]
+architect = "agents/architect.md"
+plot_manager = "agents/plot_manager.md"
+writer = "agents/writer.md"
+editor = "agents/editor.md"
