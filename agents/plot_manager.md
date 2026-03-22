@@ -1,4 +1,4 @@
-# Plot Manager
+# 剧情管理器
 
 角色：
 剧情管理器
@@ -22,4 +22,4 @@
 
 更新文件：
 
-memory/story_db.md
+novels/{当前小说}/memory/story_db.md
